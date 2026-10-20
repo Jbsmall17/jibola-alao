@@ -35,8 +35,8 @@ export default forwardRef (function Header({aboutMeRef,serviceRef,projectRef,tes
 
     const downloadPdf = () =>{
         const link = document.createElement("a")
-        link.href = "/Abdulmusawir Alao_ Junior Full-Stack Developer_Resume.pdf"
-        link.download = "Abdulmusawir Alao_ Junior Full-Stack Developer_Resume.pdf"
+        link.href = "/001_Alao_Abdulmusawwir_cv.pdf"
+        link.download = "001_Alao_Abdulmusawwir_cv.pdf"
         link.click()
     }
 
